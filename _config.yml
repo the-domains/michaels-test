@@ -1,0 +1,28 @@
+name: Michaels-test
+favicon: null
+layout_spectrum: 0.8184292477089912
+typography_spectrum: 0.17948889429681003
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7543541374616325
+  lightness: 0.26483870251104236
+  saturation: 0.477117016678676
+  rhythmicContrast: 0.3380658982787281
+purpose: []
